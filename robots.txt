@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nishadisposables.github.io/aerobox-packers-movers/sitemap.xml

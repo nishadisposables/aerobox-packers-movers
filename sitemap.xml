@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nishadisposables.github.io/aerobox-packers-movers/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://nishadisposables.github.io/aerobox-packers-movers/assets/hero-truck.webp</image:loc>
+      <image:title>Aerobox Packers and Movers hero moving truck</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nishadisposables.github.io/aerobox-packers-movers/assets/gallery-packing.webp</image:loc>
+      <image:title>Professional packing services by Aerobox Packers and Movers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nishadisposables.github.io/aerobox-packers-movers/assets/gallery-loading.webp</image:loc>
+      <image:title>Careful loading and unloading crew</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nishadisposables.github.io/aerobox-packers-movers/assets/gallery-office.webp</image:loc>
+      <image:title>Office and commercial relocation services</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nishadisposables.github.io/aerobox-packers-movers/assets/gallery-vehicle.webp</image:loc>
+      <image:title>Car and bike transport service</image:title>
+    </image:image>
+  </url>
+</urlset>
