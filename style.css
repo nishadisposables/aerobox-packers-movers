@@ -56,6 +56,12 @@ details[open]{background:var(--white)}
 @media (prefers-reduced-motion: no-preference){
   .reveal{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s cubic-bezier(.22,.61,.36,1)}
   .reveal.is-visible{opacity:1;transform:none}
+
+/* FAQ safety: make sure question text is always visible */
+details summary {
+    visibility: visible;
+    opacity: 1;
+}
   .service-card,.trust-item,.gallery figure,.faq details{transition:transform .25s ease,box-shadow .25s ease}
   .service-card:hover,.gallery figure:hover{transform:translateY(-4px);box-shadow:0 18px 40px -18px rgba(27,42,42,.18)}
   .btn:hover{transform:translateY(-2px)}
